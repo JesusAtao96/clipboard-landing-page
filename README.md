@@ -1,4 +1,4 @@
-![Live Site](https://jesusatao96.github.io/frontend-mentor-challenges/clipboard-landing-page/)
+[Live Site](https://jesusatao96.github.io/frontend-mentor-challenges/clipboard-landing-page/)
 
 # Frontend Mentor - Clipboard landing page
 
